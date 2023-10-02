@@ -1,4 +1,4 @@
-# CursoWeb_Infusin_ProjetoFinal
+# CursoWeb_Infusion_ProjetoFinal
 Projeto do curso de HTML, CSS e JavaScript da Udemy, que visa aplicar os conhecimentos em HTML, CSS e Javascript adquiridos durante todo o decorrer do curso.
 
 ![image](https://github.com/LeonardoSanga/CursoWeb_Infusin_ProjetoFinal/assets/100099053/4af0cfc5-29f6-47d0-a2f5-f3c98c61b42d)
